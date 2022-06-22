@@ -49,7 +49,7 @@ nbconvert==6.5.0
 nbformat==5.3.0
 nest-asyncio==1.5.5
 notebook==6.4.11
-numpy==1.21.6
+numpy==1.22.0
 outcome==1.1.0
 packaging==21.3
 pandas
